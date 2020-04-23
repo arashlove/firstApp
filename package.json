@@ -1,7 +1,6 @@
 {
   "name": "express-module",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "start": "export NODE_ENV=development && node server.js",
@@ -23,5 +22,14 @@
   },
   "devDependencies": {
     "cross-env": "^7.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arashlove/firstApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arashlove/firstApp/issues"
+  },
+  "homepage": "https://github.com/arashlove/firstApp#readme",
+  "description": ""
 }
